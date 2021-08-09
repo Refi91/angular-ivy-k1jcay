@@ -3,12 +3,16 @@ background-color: #a0e4b0;
 margin: 0px;
 height: auto;
 padding: 10px;
+width: 80%;
+display: inline-block;
 }
 
 #headerlogo {
   overflow: hidden;
+  display: inline-block;
+  width: 20%
+}
 
 #container {
-  display: grid;
-}
+  display: 
 }
