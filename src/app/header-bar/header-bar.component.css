@@ -3,10 +3,12 @@ background-color: #a0e4b0;
 margin: 0px;
 height: auto;
 padding: 10px;
-display: inline-block;
 }
 
 #headerlogo {
   overflow: hidden;
-  display: inline-block;
+
+#container {
+  display: grid;
+}
 }
