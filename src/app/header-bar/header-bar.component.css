@@ -1,12 +1,17 @@
 #headercb {
 background-color: #a0e4b0;
-margin: 0px;
 display: inline-block;
+width: calc( 100% - 254px );
 }
 
 #headerlogo {
   overflow: hidden;
   display: inline-block;
+  margin: 0px;
+  float: left;
+  border: 2px solid #a0e4b0;
+  border-bottom-left-radius: 25px;
+  border-top-left-radius: 25px;
 }
 
 #container {
