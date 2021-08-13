@@ -1,15 +1,11 @@
 #headercb {
 background-color: #a0e4b0;
 margin: 0px;
-height: auto;
-padding: 10px;
-width: 70%;
 display: inline-block;
 }
 
 #headerlogo {
   overflow: hidden;
-  width: 30%;
   display: inline-block;
 }
 
